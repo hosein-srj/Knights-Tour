@@ -7,4 +7,3 @@ A knight's tour is a sequence of moves of a knight on a chessboard such that the
 The algorithm used in this code is to select the element that has the least option for the next step in each step.
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/54143711/127215452-121b7043-fc41-4c89-bef7-592f14bf84b0.gif)
-
